@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14f79acf-9425-4e00-a727-629bdb6b2667" name="Default" comment="">
+    <list default="true" id="14f79acf-9425-4e00-a727-629bdb6b2667" name="Default" comment="v 0.1">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="serdyuks2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +29,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="250" column="0" selection-start="9343" selection-end="9343" vertical-scroll-proportion="0.72530866" vertical-offset="4015" max-vertical-offset="4403">
+            <state line="250" column="32" selection-start="9356" selection-end="9356" vertical-scroll-proportion="0.72530866" vertical-offset="4015" max-vertical-offset="4403">
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -298,7 +299,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="250" column="0" selection-start="9343" selection-end="9343" vertical-scroll-proportion="0.72530866" vertical-offset="4015" max-vertical-offset="4403">
+        <state line="250" column="32" selection-start="9356" selection-end="9356" vertical-scroll-proportion="0.72530866" vertical-offset="4015" max-vertical-offset="4403">
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
