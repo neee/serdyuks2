@@ -79,13 +79,8 @@ body {
     font-size: 18px;
 }
 
-.sidebar-nav > .sidebar-brand a {
-    color: #999999;
-}
-
-.sidebar-nav > .sidebar-brand a:hover {
-    color: #fff;
-    background: none;
+.sidebar-nav > .sidebar-brand {
+    color: #ffffff;
 }
 
 #menu-toggle {
@@ -93,6 +88,14 @@ body {
     right: 0;
     position: fixed;
     z-index: 1;
+}
+
+.lead a {
+    color: #00FF00;
+}
+
+.lead a:hover {
+    color: #000000;
 }
 
 #sidebar-wrapper.active {
@@ -185,12 +188,20 @@ i.service-icon {
 
 .contacts {
     color: #ffffff;
-    background: #0a5175;
+    background: #000000;
     padding: 50px 0;
 }
 
 .contacts .btn {
     margin: 10px;
+}
+
+.contacts a {
+    color: #00FF00;
+}
+
+.contacts a:hover {
+    color: #ffffff;
 }
 
 .btn-primary {
